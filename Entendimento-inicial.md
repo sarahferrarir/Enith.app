@@ -14,7 +14,7 @@ O aplicativo é destinado a todas as pessoas que têm o objetivo de estabelecer,
 ### Why? Por que o aplicativo é necessário?
 Nosso aplicativo é fundamental porque, após uma análise detalhada, identificamos várias deficiências nos aplicativos de rotina existentes. Esses aplicativos muitas vezes não são eficazes e podem ser excessivamente caros.
 
-### When? Quando deve está disponível para uso?
+### When? Quando deve estar disponível para uso?
 
 
 ### How? Como vai ajudar/influenciar os usuários?
