@@ -7,6 +7,21 @@
 - RN-06: O aplicativo deve funcionar offline e enviar lembretes ou notificações para os usuários com base no horário das tarefas em suas rotinas.
 - RN-06: O aplicativo deve fornecer análises e insights sobre a produtividade do usuário.
 - RN-07: O aplicativo deve ser fácil de usar, com uma interface de usuário intuitiva e uma experiência de usuário agradável.
+- RN-08: Os usuários devem poder registrar detalhes sobre sua saúde física, como peso, altura, idade, e outros parâmetros relevantes.
+- RN-09: O aplicativo deve permitir que os usuários rastreiem seu progresso em metas de saúde e fitness ao longo do tempo, fornecendo gráficos e estatísticas visuais.
+- RN-10: Os usuários devem poder criar e gerenciar listas de tarefas diárias ou semanais, com a capacidade de marcar tarefas como concluídas e definir lembretes para tarefas futuras.
+- RN-11: O aplicativo deve permitir que os usuários registrem o que comeram ao longo do dia. Os usuários devem poder adicionar detalhes sobre cada item alimentar, incluindo nome, quantidade, e informações nutricionais, como calorias, proteínas, gorduras, carboidratos, vitaminas, e minerais. O aplicativo deve calcular automaticamente o total de calorias e outros valores nutricionais com base nos itens registrados.
+- RN-12: Os usuários devem poder registrar seu consumo de água diário e acompanhar sua ingestão de líquidos ao longo do dia.
+- RN-13: O aplicativo deve fornecer recursos de monitoramento do sono, permitindo que os usuários registrem a qualidade e a duração de seu sono, além de receber sugestões para melhorar seus hábitos de sono.
+- RN-14: Os usuários devem poder exportar e fazer backup de seus dados pessoais, garantindo a portabilidade e segurança de suas informações.
+- RN-15: O aplicativo deve permitir que os usuários adicionem entradas de texto sobre cada tarefa e meta definida para o dia, registrando o que sentiram ao cumprir aquele objetivo, quais foram as dificuldades encontradas, e quaisquer outras observações relevantes.
+- RN-16: Os usuários devem poder associar fotos às suas tarefas e metas pré-estabelecidas, fornecendo uma maneira visual de registrar e documentar o progresso e os resultados alcançados.
+- RN-17: O aplicativo deve oferecer opções de privacidade para as entradas relacionadas à rotina diária, permitindo que os usuários decidam se desejam manter suas informações privadas, compartilhá-las com amigos selecionados ou torná-las públicas.
+- RN-18: Os usuários devem poder categorizar suas entradas relacionadas à rotina diária com tags ou etiquetas personalizadas para facilitar a organização e a busca.
+- RN-19: O aplicativo deve fornecer recursos de análise e insights sobre a rotina diária do usuário, incluindo estatísticas sobre a conclusão de tarefas, o cumprimento de metas e o progresso ao longo do tempo.
+- RN-20: Os usuários devem poder revisitar e refletir sobre sua rotina diária por meio de uma visualização cronológica ou calendário, que mostra as tarefas concluídas, as metas alcançadas e as experiências associadas a cada dia.
+- RN-21: O aplicativo deve incluir recursos de edição para as entradas relacionadas à rotina diária, permitindo que os usuários façam correções, adições ou exclusões conforme necessário.
+- RN-22: Os usuários devem poder exportar suas entradas relacionadas à rotina diária em formato de arquivo para backup ou compartilhamento externo.
 
 ## 🛠 Requisitos Técnicos
 
@@ -25,9 +40,26 @@
 - RF-12: O aplicativo deve funcionar offline, permitindo que os usuários visualizem e editem suas rotinas mesmo sem conexão à internet.
 - RF-13: O aplicativo deve enviar lembretes ou notificações para os usuários com base no horário das tarefas em suas rotinas.
 - RF-14: O aplicativo deve fornecer análises e insights sobre a produtividade do usuário, como tarefas concluídas, tempo gasto em cada tarefa, etc.
+- RF-15: Implementar funcionalidades de diário, onde os usuários podem registrar eventos diários, sentimentos e pensamentos. Eles devem poder associar fotos a essas entradas de diário.
+- RF-16: Desenvolver recursos de planejamento de refeições, permitindo que os usuários registrem suas refeições diárias, incluindo detalhes nutricionais como calorias, proteínas, carboidratos, etc.
+- RF-17: Integrar um sistema de monitoramento de atividades físicas, onde os usuários podem registrar os exercícios realizados, duração e intensidade, além de acompanhar seu progresso ao longo do tempo.
+- RF-18: Implementar funcionalidades de planejamento de metas e tarefas diárias, onde os usuários podem definir objetivos e acompanhar seu progresso. Eles devem poder associar sentimentos e dificuldades enfrentadas ao realizar essas tarefas.
+- RF-19: Implementar um sistema de armazenamento de dados escalável e resiliente para lidar com o aumento do volume de usuários e informações.
+- RF-20: Integrar serviços de análise de dados para gerar insights sobre o uso da plataforma, padrões de comportamento dos usuários e melhorias potenciais na experiência do usuário.
+- RF-20: Desenvolver recursos de sincronização em tempo real para garantir que as atualizações feitas em um dispositivo sejam refletidas imediatamente em outros dispositivos associados à mesma conta de usuário.
+- RF-21: Implementar técnicas de cache para otimizar o desempenho e reduzir o tempo de carregamento, especialmente para recursos frequentemente acessados, como feeds de notícias e calendários.
+- RF-22: Utilizar tecnologias de compressão de imagem para reduzir o tamanho das fotos enviadas pelos usuários, minimizando o consumo de largura de banda e o tempo de carregamento.
+- RF-23: Integrar ferramentas de monitoramento de desempenho para acompanhar a utilização de recursos do servidor, identificar gargalos de desempenho e realizar ajustes conforme necessário.
 
 ### Não Funcionais
 - RNF-01: Utilização de tecnologia Framework;
+- RNF-03: Garantir a compatibilidade multiplataforma, garantindo que o aplicativo funcione de maneira consistente em diferentes dispositivos móveis (iOS e Android).
+- RNF-04: Implementar testes de usabilidade e conduzir testes beta com usuários reais para garantir uma experiência de usuário otimizada.
+- RNF-05: Garantir que o aplicativo seja leve e responsivo, mesmo em dispositivos móveis com recursos limitados de hardware.
+- RNF-06: Utilizar boas práticas de segurança da informação para proteger os dados dos usuários, como criptografia de dados em repouso e em trânsito, além de garantir conformidade com regulamentações de privacidade, como GDPR e LGPD.
+- RNF-07: Garantir alta disponibilidade e tolerância a falhas, implementando estratégias de redundância e failover para minimizar o tempo de inatividade e manter a continuidade do serviço.
+- RNF-08: Realizar testes de segurança regulares e análises de vulnerabilidades para identificar e corrigir potenciais brechas de segurança na aplicação.
+- RNF-09: Adotar práticas de desenvolvimento ágil e integração contínua para garantir entregas frequentes e atualizações de software sem interrupções significativas para os usuários.
 
     → ***React Native***
 - RNF-02: O aplicativo deve ser fácil de usar, com uma interface intuitiva e uma experiência de usuário agradável.
