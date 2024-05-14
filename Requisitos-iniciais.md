@@ -20,8 +20,9 @@
 - RN-18: Os usuários devem poder categorizar suas entradas relacionadas à rotina diária com tags ou etiquetas personalizadas para facilitar a organização e a busca.
 - RN-19: O aplicativo deve fornecer recursos de análise e insights sobre a rotina diária do usuário, incluindo estatísticas sobre a conclusão de tarefas, o cumprimento de metas e o progresso ao longo do tempo.
 - RN-20: Os usuários devem poder revisitar e refletir sobre sua rotina diária por meio de uma visualização cronológica ou calendário, que mostra as tarefas concluídas, as metas alcançadas e as experiências associadas a cada dia.
-- RN-21: O aplicativo deve incluir recursos de edição para as entradas relacionadas à rotina diária, permitindo que os usuários façam correções, adições ou exclusões conforme necessário.
-- RN-22: Os usuários devem poder exportar suas entradas relacionadas à rotina diária em formato de arquivo para backup ou compartilhamento externo.
+- RN-21: O aplicativo deve incluir recursos de edição para as entradas relacionadas à rotina diária, permitindo que os usuários façam correções, adições ou exclusões conforme necessário;
+- RN-22: Os usuários devem poder exportar suas entradas relacionadas à rotina diária em formato de arquivo para backup ou compartilhamento externo;
+- RN-23: Os usuários devem poder criar tarefas e objetivos compartilhados com seus amigos, onde ambos têm uma responsabilidade mútua de cumprir a tarefa em conjunto. O usuário que cria a tarefa pode definir sua frequência (diária ou semanal) e convidar seus amigos para participarem. Uma vez aceito o convite, os amigos podem visualizar e acompanhar o progresso da tarefa compartilhada, recebendo notificações sobre atualizações e contribuindo para sua conclusão. Essa funcionalidade promove a colaboração entre os usuários, incentivando o apoio mútuo e a consecução de objetivos comuns.
 
 ## 🛠 Requisitos Técnicos
 
@@ -50,6 +51,7 @@
 - RF-21: Implementar técnicas de cache para otimizar o desempenho e reduzir o tempo de carregamento, especialmente para recursos frequentemente acessados, como feeds de notícias e calendários.
 - RF-22: Utilizar tecnologias de compressão de imagem para reduzir o tamanho das fotos enviadas pelos usuários, minimizando o consumo de largura de banda e o tempo de carregamento.
 - RF-23: Integrar ferramentas de monitoramento de desempenho para acompanhar a utilização de recursos do servidor, identificar gargalos de desempenho e realizar ajustes conforme necessário.
+- RF-24: Desenvolver um sistema de convites e permissões que permita aos usuários criar tarefas compartilhadas e convidar amigos para participarem. Isso inclui a criação de uma interface de usuário intuitiva para criar e gerenciar tarefas compartilhadas, bem como a implementação de lógica de permissões para garantir que apenas os participantes autorizados possam visualizar e contribuir para as tarefas compartilhadas. Além disso, o sistema deve ser capaz de enviar notificações aos participantes sobre atualizações e lembretes relacionados às tarefas compartilhadas.
 
 ### Não Funcionais
 - RNF-01: Utilização de tecnologia Framework;
