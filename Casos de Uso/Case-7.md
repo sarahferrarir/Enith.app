@@ -1,5 +1,4 @@
-## ⚡ **7º Caso de Uso**: Rastreamento de Metas de Saúde e Fitness
-
+## ⚡ **UC-07**: Rastreamento de Metas de Saúde e Fitness
 ### Objetivo: 
 → Permitir que os usuários acompanhem seu progresso em metas de saúde e fitness ao longo do tempo, através de gráficos e estatísticas visuais, para facilitar o entendimento de seu desempenho.
 

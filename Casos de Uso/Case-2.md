@@ -1,5 +1,4 @@
-## ⚡ **2º Caso de Uso**: Login de Usuário
-
+## ⚡ **UC-02**: Login de Usuário
 ### Objetivo: 
 → Permitir que usuários existentes acessem o aplicativo, utilizando um endereço de e-mail e senha ou uma plataforma de mídia social, de forma segura e eficiente
 

@@ -1,5 +1,4 @@
-## ⚡ **3º Caso de Uso**:  Interação Social
-
+## ⚡ **UC-03**:  Interação Social
 ### Objetivo: 
 → Permitir que os usuários se conectem e interajam no aplicativo, criando amizades e seguindo outros usuários para receber atualizações e conteúdo.
 

@@ -1,4 +1,4 @@
-## ⚡ **5º Caso de Uso**: Entradas de Texto para Tarefas e Metas
+## ⚡ **UC-05**: Entradas de Texto para Tarefas e Metas
 ### Objetivo: 
 → Permitir que os usuários adicionem entradas de texto detalhadas para cada tarefa e meta, registrando suas experiências e observações.
 

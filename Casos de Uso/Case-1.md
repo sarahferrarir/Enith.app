@@ -1,5 +1,4 @@
-## ⚡ **1º Caso de Uso**: Registro de Usuário
-
+## ⚡ **UC-01**: Registro de Usuário
 ### Objetivo: 
 → Permitir que novos usuários criem contas no aplicativo, utilizando um endereço de e-mail ou uma plataforma de mídia social, de forma segura e eficiente.
 

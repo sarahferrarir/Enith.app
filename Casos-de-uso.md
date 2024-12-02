@@ -12,8 +12,14 @@ Bem-vindo a página principal dos casos de uso! Aqui você pode encontrar links 
 6. [Associação de Fotos às Tarefas e Metas](#---uc-06-associação-de-fotos-às-tarefas-e-metas)
 7. [Rastreamento de Metas de Saúde e Fitness](#---uc-07-rastreamento-de-metas-de-saúde-e-fitness)
 8. [Disponibilizar Template Pré-definido](#---uc-08-disponibilizar-template-pré-definido)
-9. [Personalizar Template Pré-Definido](#---uc-09-personalizar-template-pré-definido)
-10. [Realizar Busca por Rotinas, Usuários e Templates de Rotina](#---uc-10-realizar-busca-por-rotinas-usuários-e-templates-de-rotina)
+9. [Personalizar Template Pré-Definido](#---uc-09-personalizar-template=pré-definido)
+10. [Realizar Busca por Rotinas, Usuários e Templates de Rotina](#---uc-10-realizar-busca-por-rotinas,-usuários-e-templates-de-rotina)
+11. [Criar Rotinas](#---uc-11-criar-rotinas)  
+12. [Editar Rotinas](#---uc-12-editar-rotinas)  
+13. [Excluir Rotinas](#---uc-13-excluir-rotinas)
+14. [Envio de Lembretes e Notificações](#---uc-14-envio-de-lembretes-e-notificações)  
+15. [Análises e Insights sobre Produtividade](#---uc-15-análises-e-insights-sobre-produtividade)  
+16. [Definição e Acompanhamento de Metas e Tarefas](#---uc-16-definição-e-acompanhamento-de-metas-e-tarefas)  
 
 _______
 
@@ -66,3 +72,33 @@ Esse caso de uso descreve o processo pelo qual o usuário pode personalizar um t
 
 Esse caso de uso descreve o processo pelo qual o usuário pode realizar buscas por rotinas, templates de rotina e outros usuários no sistema, utilizando palavras-chave para localizar informações relevantes de forma rápida e eficiente. [Clique aqui para mais detalhes](Casos%20de%20Uso/Case-10.md).
 
+
+#### - 📌 **UC-11: Criar Rotinas**  
+
+Esse caso de uso descreve o processo pelo qual o usuário pode criar rotinas totalmente novas no sistema, definindo os detalhes como nome, horários, frequência e tarefas associadas. Essa funcionalidade permite que o usuário configure sua rotina de maneira personalizada, garantindo flexibilidade e adequação às suas necessidades específicas.  
+[Clique aqui para mais detalhes](Casos%20de%20Uso/Case-11.md).  
+
+#### - 📌 **UC-12: Editar Rotinas**  
+
+Esse caso de uso detalha como o usuário pode modificar rotinas previamente criadas no sistema. O processo envolve acessar uma rotina existente, realizar as alterações necessárias e salvar as modificações. Essa funcionalidade permite ajustes e atualizações constantes, garantindo que as rotinas continuem relevantes e adequadas às mudanças no dia a dia do usuário.  
+[Clique aqui para mais detalhes](Casos%20de%20Uso/Case-12.md).  
+
+#### - 📌 **UC-13: Excluir Rotinas**  
+
+Esse caso de uso explica o processo pelo qual o usuário pode remover rotinas que não são mais necessárias. A funcionalidade inclui a seleção da rotina desejada, a confirmação da exclusão e a remoção permanente do sistema. Essa ação garante que o usuário mantenha sua lista de rotinas organizada e atualizada.  
+[Clique aqui para mais detalhes](Casos%20de%20Uso/Case-13.md).  
+
+#### - 📌 **UC-14: Envio de Lembretes e Notificações**
+
+Esse caso de uso descreve como o sistema envia lembretes e notificações aos usuários com base nos horários definidos para suas tarefas. O objetivo é garantir que as atividades sejam realizadas dentro do prazo estabelecido, aumentando a organização e a produtividade do usuário. O sistema verifica as tarefas agendadas e utiliza notificações automáticas para mantê-lo informado e no controle de sua rotina.  
+[Clique aqui para mais detalhes](Casos%20de%20Uso/Case-14.md).
+
+#### - 📌 **UC-15: Análises e Insights sobre Produtividade**
+
+Esse caso de uso descreve como o sistema coleta e processa informações sobre as tarefas realizadas pelo usuário, fornecendo análises e insights sobre sua produtividade. As métricas incluem o número de tarefas concluídas, o tempo gasto em cada atividade e o progresso em relação às metas definidas. O sistema apresenta esses dados de forma clara e visual, ajudando o usuário a identificar áreas de melhoria e tomar decisões mais eficazes sobre sua rotina.  
+[Clique aqui para mais detalhes](Casos%20de%20Uso/Case-15.md).
+
+#### - 📌 **UC-16: Definição e Acompanhamento de Metas e Tarefas**
+
+Esse caso de uso descreve o processo no qual o usuário define metas e tarefas diárias, podendo acompanhar o progresso de cada objetivo estabelecido. O sistema permite que o usuário registre metas com prazos e tarefas associadas, acompanhando o avanço em tempo real. Além disso, o sistema oferece relatórios sobre o desempenho, facilitando ajustes e incentivando a realização dos objetivos.  
+[Clique aqui para mais detalhes](Casos%20de%20Uso/Case-16.md).

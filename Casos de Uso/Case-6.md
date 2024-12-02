@@ -1,4 +1,4 @@
-## ⚡ **6º Caso de Uso**: Associação de Fotos às Tarefas e Metas
+## ⚡ **UC-06**: Associação de Fotos às Tarefas e Metas
 ### Objetivo: 
 → Permitir que os usuários Associação de Fotos às Tarefas e Metas
 

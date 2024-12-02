@@ -1,4 +1,4 @@
-## ⚡ **10º Caso de Uso**:  Realizar Busca por Rotinas, Usuários e Templates de Rotina
+## ⚡ **UC-10**:  Realizar Busca por Rotinas, Usuários e Templates de Rotina
 ### Objetivo: 
 → permitir que o usuário realize buscas por rotinas, templates e usuários no sistema utilizando palavras-chave, facilitando a localização de informações relevantes.
 

@@ -1,4 +1,4 @@
-## ⚡ **4º Caso de Uso**: Criação e Gerenciamento de Tarefas
+## ⚡ **UC-04**: Criação e Gerenciamento de Tarefas
 ### Objetivo: 
 → Permitir que os usuários criem e gerenciem listas de tarefas diárias ou semanais, com a capacidade de marcar tarefas como concluídas e definir lembretes para tarefas futuras.
 
