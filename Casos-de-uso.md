@@ -19,7 +19,9 @@ Bem-vindo a página principal dos casos de uso! Aqui você pode encontrar links 
 13. [Excluir Rotinas](#---uc-13-excluir-rotinas)
 14. [Envio de Lembretes e Notificações](#---uc-14-envio-de-lembretes-e-notificações)  
 15. [Análises e Insights sobre Produtividade](#---uc-15-análises-e-insights-sobre-produtividade)  
-16. [Definição e Acompanhamento de Metas e Tarefas](#---uc-16-definição-e-acompanhamento-de-metas-e-tarefas)  
+16. [Definição e Acompanhamento de Metas e Tarefas](#---uc-16-definição-e-acompanhamento-de-metas-e-tarefas)   
+17. [UC-17: Registro de Sentimentos e Dificuldades em Tarefas](#---uc-17-registro-de-sentimentos-e-dificuldades-em-tarefas)  
+18. [UC-18: Gerenciamento de Tarefas com o Modelo Pomodoro](#---uc-18-gerenciamento-de-tarefas-com-o-modelo-pomodoro)  
 
 _______
 
@@ -102,3 +104,13 @@ Esse caso de uso descreve como o sistema coleta e processa informações sobre a
 
 Esse caso de uso descreve o processo no qual o usuário define metas e tarefas diárias, podendo acompanhar o progresso de cada objetivo estabelecido. O sistema permite que o usuário registre metas com prazos e tarefas associadas, acompanhando o avanço em tempo real. Além disso, o sistema oferece relatórios sobre o desempenho, facilitando ajustes e incentivando a realização dos objetivos.  
 [Clique aqui para mais detalhes](Casos%20de%20Uso/Case-16.md).
+
+#### - 📌 **UC-17: Registro de Sentimentos e Dificuldades em Tarefas**
+
+Este caso de uso detalha como o usuário pode registrar sentimentos e dificuldades enfrentadas ao realizar suas tarefas diárias. Essas informações, associadas a cada tarefa concluída, oferecem um acompanhamento do progresso pessoal e permitem identificar padrões ou áreas de melhoria. O sistema apresenta uma interface intuitiva para facilitar a captura dessas informações, assegurando que o registro seja simples e relevante para o usuário.  
+[Clique aqui para mais detalhes](Casos%20de%20Uso/Case-17.md). 
+
+#### - 📌 **UC-18: Gerenciamento de Tarefas com o Modelo Pomodoro**
+
+Este caso de uso explora como o usuário pode utilizar o modelo Pomodoro para gerenciar o tempo ao realizar tarefas. A funcionalidade inclui ciclos de 25 minutos de trabalho concentrado, seguidos por intervalos curtos de 5 minutos, e um intervalo longo ao final de quatro ciclos. O sistema notifica o usuário em cada transição e permite personalizações, como ajuste da duração das sessões e intervalos, proporcionando maior controle e eficiência no gerenciamento do tempo.  
+[Clique aqui para mais detalhes](Casos%20de%20Uso/Case-18.md).  
